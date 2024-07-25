@@ -1,7 +1,4 @@
-llama-index
-openai
-pypdf
+llama-index==0.10.34
 langchain
-langchain-community
-langchain-core
-python-dotenv
+PyPDF2
+sentence-transformers
